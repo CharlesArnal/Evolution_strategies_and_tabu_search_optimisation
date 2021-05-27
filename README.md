@@ -19,4 +19,5 @@ Example of experiments can be found in "Experiment_ES.m" and "Experiment_CMA_ES.
 
 We test various choices of parameters, as well as two variations on the idea of Concentric Tabu Search.
 Example of experiments can be found in "Experiment_Tabu.m".
+
 <img src="https://user-images.githubusercontent.com/71833961/119831867-9621e200-bef5-11eb-989e-e85629e04ff8.png" width="400" height="400"> <img src="https://user-images.githubusercontent.com/71833961/119831832-8f936a80-bef5-11eb-9516-035f1bd1d2f0.png" width="400" height="400"> 
